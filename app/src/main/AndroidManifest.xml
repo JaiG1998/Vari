@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.vari">
 
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,6 +18,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Gender" />
+        <activity android:name=".Birthday" />
+        <activity android:name=".Name" />
+        <activity android:name=".Weight" />
+        <activity android:name=".Job"/>
+        <activity android:name=".Upload"/>
+        <activity android:name=".DashBoard">
+        </activity>
+
     </application>
 
 </manifest>

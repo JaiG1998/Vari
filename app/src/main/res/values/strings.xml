@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Vari</string>
+    <string name="app_name">Vaari</string>
+    <string name="gender">What\'s your gender?</string>
+    <string name="name">What\'s your good name?</string>
+    <string name="next_button">Next</string>
+    <string name="birthday">When should we wish you?</string>
+    <string name="next_button_weight">Next</string>
+    <string name="weight">We don\'t judge you, but...</string>
+    <string name="kg">KG</string>
+    <string name="job">That job thing...</string>
+    <string name="teacher">Teacher</string>
+    <string name="others">Others</string>
+    <string name="student">Student</string>
+    <string name="lawyer">Lawyer</string>
+    <string name="bussinessman">Bussinessman</string>
+    <string name="doctor">Doctor</string>
+    <string name="engineer">Engineer</string>
+    <string name="next_button1">Next</string>
+    <string name="video">watch a video</string>
+    <string name="message">talk to a friend</string>
 </resources>
